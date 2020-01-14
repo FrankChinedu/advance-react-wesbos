@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+*.log
+haters/
+.next/
+.build/
+layout.md
+variables.env
+backend/node_modules/
+backend/.vscode
+frontend/.vscode
+frontend/node_modules/
+frontend/.next/
