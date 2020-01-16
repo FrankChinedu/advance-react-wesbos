@@ -8,6 +8,7 @@ layout.md
 variables.env
 backend/node_modules/
 backend/.vscode
+backend/
 frontend/.vscode
 frontend/node_modules/
 frontend/.next/
