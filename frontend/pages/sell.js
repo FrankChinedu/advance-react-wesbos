@@ -7,6 +7,6 @@ const Sell = props => (
       <CreateItem />
     </PleaseSignIn>
   </div>
-);
+); 
 
 export default Sell;
